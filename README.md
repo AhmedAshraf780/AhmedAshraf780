@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Ashraf!
 
-<!--
-**AhmedAshraf780/AhmedAshraf780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a computer science student  
+🔧 I love working with C++, Linux, and algorithms  
+📘 Currently learning: front-end, Bace-end and linux kernel Development    
+💻 Tools: VS Code, Neovim, Git, Arch Linux
 
-Here are some ideas to get you started:
+## 🧠 What I'm working on
+- Mastering DSA and C++
+- Building projects with react/nodejs
+- Learning basics for linux kernel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **FlappyBird** ( born again edition) : [flappyBird](https://github.com/AhmedAshraf780/FlappyBird-BornAgain)
+- **Resturant System** : [flappy](https://github.com/xxGALACTICOS/Resturant_system)
+- **chatApplication** ( offline edition ) : https://github.com/AhmedAshraf780/chatx
+- **Hospital Redmission** : [https://github.com/AhmedAshraf780/hospital](https://github.com/AhmedAshraf780/Hospital_Readmission_Prediction_Project)
+
+## 📫 How to reach me:
+- Email: amedashraf@gmail.com 
+- LinkedIn: [](https://www.linkedin.com/in/ahmed-ashraf-90a486286/)
+- GitHub: [@yourusername](https://github.com/AhmedAshraf780)
