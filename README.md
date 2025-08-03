@@ -2,7 +2,7 @@
 
 🎓 I'm a computer science student  
 🔧 I love working with C++, Linux, and algorithms  
-📘 Currently learning: front-end, Bace-end and linux kernel Development    
+📘 Currently learning: front-end, Back-end and linux kernel Development    
 💻 Tools: VS Code, Neovim, Git, Arch Linux
 
 ## 🧠 What I'm working on
