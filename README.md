@@ -15,6 +15,8 @@
 - **Resturant System** : [https://github.com/xxGALACTICOS/Resturant_system](https://github.com/xxGALACTICOS/Resturant_system)
 - **chatApplication** ( offline edition ) : [https://github.com/AhmedAshraf780/chatx](https://github.com/AhmedAshraf780/chatx)
 - **Hospital Redmission** : [https://github.com/AhmedAshraf780/hospital](https://github.com/AhmedAshraf780/Hospital_Readmission_Prediction_Project)
+- **Movie App ( ITI project)** : [https://github.com/AhmedAshraf780/movieapp](https://github.com/AhmedAshraf780/ITI_Project)
+- **phrasevault** : [https://github.com/AhmedAshraf780/phrasevault](https://github.com/AhmedAshraf780/phrasevault)
 
 ## 📫 How to reach me:
 - Email: amedashraf@gmail.com 
