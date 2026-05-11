@@ -22,3 +22,5 @@
 - Email: amedashraf@gmail.com 
 - LinkedIn: [https://www.linkedin.com/in/ahmed-ashraf-90a486286/](https://www.linkedin.com/in/ahmed-ashraf-90a486286/)
 - GitHub: [https://github.com/AhmedAshraf780](https://github.com/AhmedAshraf780)
+[📄 Download My CV](./ahmedashraf_resume.pdf)
+
